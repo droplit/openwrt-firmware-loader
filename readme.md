@@ -1,5 +1,6 @@
-How to install openwrt-firmware-loader
--------------
+# Droplit OpenWRT Firmware Loader
+
+## How to install openwrt-firmware-loader
 
 1. Download the latest release and take note of its location.
 2. Download and install the Microsoft IoT Dashboard from the Microsoft Store or [here](https://docs.microsoft.com/en-us/windows/iot-core/connect-your-device/iotdashboard).
@@ -12,4 +13,4 @@ How to install openwrt-firmware-loader
 
 ## Documentation
 
-You can find the documentation for this app in the `Docs` folder of this repository: 
+You can find the documentation for this app in the `Docs` folder of this repository [here](https://github.com/droplit/openwrt-firmware-loader/tree/master/Docs).
