@@ -24,3 +24,6 @@ You can purchase all of these products on [amazon](https://amazon.com/ideas/amzn
 ## Documentation
 
 You can find the documentation for this app in the `Docs` folder of this repository [here](https://github.com/droplit/openwrt-firmware-loader/tree/master/Docs).
+
+
+[![licensebuttons by-nd](https://licensebuttons.net/l/by-nd/3.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0)
